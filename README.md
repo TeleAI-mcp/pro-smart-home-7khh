@@ -1,2 +1,3 @@
-# pro-smart-home-7khh
-Automated issue comment bot repository
+# Pro Smart Home 7Khh
+
+Automated issue comment bot repository.
